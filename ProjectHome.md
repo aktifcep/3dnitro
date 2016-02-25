@@ -1,0 +1,1 @@
+3D Nitro is my final year project. It is a 3d car racing game that gives you the chance to race against AI controlled cars and also set world class time record.It is deployed for both pc and android 2.2 +. The game uses JMonkeyEngine3 sdk.
